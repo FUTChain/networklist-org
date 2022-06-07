@@ -7709,5 +7709,29 @@
       "ic_chain_unselect": "https://block.metachain1.com/tokenmetas/meta0.png",
       "color_chain_bg": "0xf3d275"
     }
+  },
+  {
+    "name": "FruitChain",
+    "chainId": 23578,
+    "shortName": "FUT",
+    "chain": "FruitChain",
+    "network": "mainnet",
+    "networkId": 23578,
+    "nativeCurrency": {
+      "name": "FUT",
+      "symbol": "FUT",
+      "decimals": 18
+    },
+    "rpc": [
+      "http://8.210.23.220:24002",
+      "http://8.210.85.224:24002"
+    ],
+    "faucets": [],
+    "infoURL": "https://futchains.com/",
+    "app_resource": {
+      "ic_chain_select": "https://www.futchains.com/tokenmetas/meta1.png",
+      "ic_chain_unselect": "https://www.futchains.com/tokenmetas/meta0.png",
+      "color_chain_bg": "0x5a0f72"
+    }
   }
 ]
